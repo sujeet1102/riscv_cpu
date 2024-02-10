@@ -3,4 +3,4 @@ This repository is for the implementation of single-cycled unpipelined RISC-V CP
 This project is inspired from the book "Digital Design and Computer Architecture, RISC-V Edition" by Sarrah & David Harris.
 
 Here's the Block Diagram of the CPU:<br>
-![Block Diagram](riscv_cpu\riscv_cpu\doc\block_diagram.png)
+![Block Diagram](riscv_cpu/doc/block_diagram.png)
